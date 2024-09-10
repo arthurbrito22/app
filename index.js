@@ -1,13 +1,19 @@
-// arrays, objetos
+// organização de uma meta
 let meta = {
     value: 'ler um livro todo mes',
-    checked: false
+    checked: true
 }
+//organização de muitas metas
+let metas = [ 
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
 
-console.log(meta.value);
+console.log(metas[1].value)
 
-// function // arrow function
 
-const criarMeta = () => {}
 
-function criarMeta() {} 
+
