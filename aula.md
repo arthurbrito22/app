@@ -12,7 +12,7 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 - declaração de variaveis
     (const, let)
 - operadores
-    (atribuição, concatenação=ligação, logicos)
+    (atribuição, concatenação=ligação/junta uma coisa com outra, logicos)
 - tipos de dados
     (string, number, boolean)
 - estrutura de dados
@@ -31,20 +31,41 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 
 ## Escopos e Variaveis
 
-- variaveis globais e locais
-- constantes
+- [x]variaveis globais e locais
+    (usar {}, oq estiver dentro é local)
+- [x]constantes
 
 
 ## Tipos de dados
 
-- strings
+- [x]strings
     (textos) : "" '' ``
-- number
+- [x]number
     (numeros) : 2 1.4
-- function
-    ()
+- [x]boolean
+    (verdadeiro ou falso) : true, false
 
 ## Operadores
 
-- operador de atribuição de valor
+- [x]operador de atribuição de valor
     (=)
+- [x]operador de concatenação
+    (+)
+
+## Estruturas de dados
+
+### Arrays
+
+- [x]uma lista que contem qualquer tipo de dados
+
+### Objetos
+
+- [x]atributos e metodos
+- [x]criação e manipulação de objetos
+- [x]acesso a propriedades de objetos
+
+### Functions
+- [x]criar, passar argumento
+- [x]executar
+- [x]arrow function / named function
+
