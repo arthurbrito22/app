@@ -7,7 +7,8 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 
 ## Peças de uma linguagem
 
-- comentarios
+- [x]comentarios
+    ex: // (serve para comentar/explicar, fazer uma anotação de como funciona tal linha.)
 - declaração de variaveis
     (const, let)
 - operadores
@@ -26,4 +27,24 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 - coletar os dados
 - processar os dados
     (manipular, alterar, testar...)
-- apresentar os dados
+- apresentar os dados 
+
+## Escopos e Variaveis
+
+- variaveis globais e locais
+- constantes
+
+
+## Tipos de dados
+
+- strings
+    (textos) : "" '' ``
+- number
+    (numeros) : 2 1.4
+- function
+    ()
+
+## Operadores
+
+- operador de atribuição de valor
+    (=)
