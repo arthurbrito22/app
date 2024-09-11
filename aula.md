@@ -51,6 +51,8 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
     (=)
 - [x]operador de concatenação
     (+)
+- [x]operador de comparação
+     (==, !=, >, <, <= >=)
 
 ## Estruturas de dados
 
@@ -76,6 +78,7 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 ## Condicionais
 
 - [x]switch
+- [x]if/else
 
 ###### NPM INQUIRER
 
