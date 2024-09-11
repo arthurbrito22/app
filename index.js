@@ -1,19 +1,9 @@
-// organização de uma meta
-let meta = {
-    value: 'ler um livro todo mes',
-    checked: true
+const start = () => {
+    let count = 1
+    while(count <= 10){
+        console.log(count)
+        count = count + 1
+    }                                        //ele vai passar por tudo isso e vai fazer 10x
 }
-//organização de muitas metas
-let metas = [ 
-    meta,
-    {
-        value: "caminhar 20 minutos todos os dias",
-        checked: false
-    }
-]
 
-console.log(metas[1].value)
-
-
-
-
+start()

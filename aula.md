@@ -69,3 +69,7 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 - [x]executar
 - [x]arrow function / named function
 
+### Estrutura de repetição
+
+-[x]while
+
