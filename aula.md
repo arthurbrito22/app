@@ -71,9 +71,23 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 
 ### Estrutura de repetição
 
--[x]while
+- [x]while
 
 ## Condicionais
 
--[x]switch
+- [x]switch
 
+###### NPM INQUIRER
+
+- [x] digitei "npm inquirer" no terminal, para requisitar coisas que outras pessoas fizeram
+
+## Modulos em Node.js
+
+- [x]importação de modulos
+    (require, CommonJS)
+- [x]biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assícrona e Promises
+
+- [x]uso de funções assicronas
+     (async/away)
