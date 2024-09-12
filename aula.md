@@ -31,34 +31,37 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 
 ## Escopos e Variaveis
 
-- [x]variaveis globais e locais
+- [x] variaveis globais e locais
     (usar {}, oq estiver dentro é local)
-- [x]constantes
+- [x] constantes
 
 
 ## Tipos de dados
 
-- [x]strings
+- [x] strings
     (textos) : "" '' ``
-- [x]number
+- [x] number
     (numeros) : 2 1.4
-- [x]boolean
+- [x] boolean
     (verdadeiro ou falso) : true, false
 
 ## Operadores
 
-- [x]operador de atribuição de valor
+- [x] operador de atribuição de valor
     (=)
-- [x]operador de concatenação
+- [x] operador de concatenação
     (+)
-- [x]operador de comparação
+- [x] operador de comparação
      (==, !=, >, <, <= >=)
+- [x] spread operator
+     (...)
 
 ## Estruturas de dados
 
 ### Arrays
 
-- [x]uma lista que contem qualquer tipo de dados
+- [x] uma lista que contem qualquer tipo de dados
+- [x] metodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions), lenght
 
 ### Objetos
 
