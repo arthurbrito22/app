@@ -89,9 +89,20 @@ como um lego, vc ira utilizar peças para criar algoritmos, ou seja, para resolv
 
 ## Modulos em Node.js
 
-- [x]importação de modulos
+- [x] importação de modulos
     (require, CommonJS)
-- [x]biblioteca 'inquirer' para criar prompts interativos
+- [x] biblioteca 'inquirer' para criar prompts interativos
+- [x] FS
+     (file system)
+
+## JSON
+
+- [x] Javascript Object Notation
+     (.json)
+- [x] JSON.parse() 
+     (transoforma de JSON para JS)
+- [x] JSON.stringfy()
+     (transforma de JS para JSON)
 
 ## Programação assícrona e Promises
 
